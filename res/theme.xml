@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="activation-background.jpg"  />
+    <image name="adult.jpg"  />
+    <image name="confirmation-background.jpg"  />
+    <image name="date.png"  />
+    <image name="double.png"  />
+    <image name="facebook-logo.png"  />
+    <image name="kids.png"  />
+    <image name="load.jpg"  />
+    <image name="Logo.png"  />
+    <image name="money.png"  />
+    <image name="news-item-1.jpg"  />
+    <image name="news-item-2.jpg"  />
+    <image name="news-item-3.jpg"  />
+    <image name="news-item-4.jpg"  />
+    <image name="news-item.jpg"  />
+    <image name="news-item.png"  />
+    <image name="news-tab-down-arrow.png"  />
+    <image name="news-tab-down.png"  />
+    <image name="on-off-off.png"  />
+    <image name="on-off-on.png"  />
+    <image name="profile-background.jpg"  />
+    <image name="profile-pic.jpg"  />
+    <image name="Profile.png"  />
+    <image name="signin-background.jpg"  />
+    <image name="signup-background.jpg"  />
+    <image name="single.png"  />
+    <image name="smily.png"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="@tabPlacementInt" value="" />
+        <val key="Button.sel#align" value="4" />
+        <border key="Button.sel#border" type="round" roundBorderColor="16723285" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="true" />
+        <val key="Button.sel#fgColor" value="000000" />
+        <val key="Container1.bgColor" value="330066" />
+        <val key="Container1.fgColor" value="99ff99" />
+        <val key="Container1.transparency" value="0" />
+        <val key="TextFieldBlack.align" value="3" />
+        <val key="TextFieldBlack.fgColor" value="000000" />
+        <val key="TextFieldBlack.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="TextFieldBlack.padUnit" value="2,2,2,2" />
+        <val key="TextFieldBlack.padding" value="1.0,1.0,1.0,1.0" />
+        <val key="TextFieldBlack.transparency" value="0" />
+        <val key="TitlePictureSpace.padUnit" value="2,2,2,2" />
+        <val key="TitlePictureSpace.padding" value="8.0,5.0,1.0,1.0" />
+        <val key="TitlePictureSpace.transparency" value="0" />
+        <gradient key="Toolbar.sel#bgGradient" color1="0" color2="0" posX="0.5" posY="0.5" radius="1.0" />
+        <val key="Toolbar.sel#bgType" value="0" />
+        <border key="Toolbar.sel#border" type="empty" />
+        <val key="Toolbar.sel#transparency" value="0" />
+        <val key="btnajout.align" value="4" />
+        <border key="btnajout.border" type="round" roundBorderColor="16723285" opacity="255" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" shadowMM="false" rectangle="true" />
+        <val key="holditem.align" value="4" />
+        <gradient key="holditem.bgGradient" color1="16777215" color2="16777215" posX="1.0" posY="0.5" radius="2.0" />
+        <val key="holditem.bgType" value="8" />
+        <border key="holditem.border" type="roundRect" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10.0" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" topOnlyMode="false" bottomOnlyMode="false" cornerRadius="7.0" bezierCorners="false" />
+        <val key="holditem.marUnit" value="2,2,2,2" />
+        <val key="holditem.margin" value="1.0,1.0,2.0,2.0" />
+        <val key="resde.marUnit" value="2,2,2,2" />
+        <val key="resde.margin" value="0.0,0.0,0.0,80.0" />
+    </theme>
+    <image name="timeline-background.jpg"  />
+    <image name="twitter-logo.png"  />
+    <image name="type.png"  />
+    <image name="ville.png"  />
+    <image name="welcome-background.jpg"  />
+    <image name="welcome-slide-1.png"  />
+    <image name="welcome-slide-2.png"  />
+    <image name="welcome-slide-3.png"  />
+</resource>
