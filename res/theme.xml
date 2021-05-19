@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="2289.jpg_wh860.jpg"  />
+    <image name="500_F_225066382_hO7QgF3oTi4l0CdsNg4wSZxKOTCFeRUB.jpg"  />
+    <image name="argent-attraction-revenus_74855-6573.jpg"  />
+    <image name="back-logo.jpeg"  />
+    <image name="Capture.PNG"  />
+    <image name="csm_payments-c_06eeee90f9.jpg"  />
+    <image name="e-wallet-technology-payment-concept-with-team-people_25147-208.jpg"  />
+    <image name="flat-lay-composition-tourist-items-notebook-color-background-space-text-travel-agency-144306858.jpg"  />
+    <image name="global-cash-payment-statistical-results-infographics-animation-abstract-data-presentation-background_nwveqpi9l__F0000.png"  />
+    <image name="images.jpg"  />
+    <image name="marketing-SMS-1-sh.jpg"  />
+    <image name="nfc-payment-flat-concept-vector-2365000.jpg"  />
+    <image name="nouveau-fond-degrade-flou-pastel-doux_92086-57.jpg"  />
+    <image name="pngtree-blue-flat-business-man-financial-management-png-image_40176.jpg"  />
+    <image name="pngtree-cartoon-business-blue-wechat-pay-advertising-image_184113.jpg"  />
+    <image name="pngtree-cartoon-business-wechat-payment-advertising-image_193850.jpg"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+    </theme>
+</resource>
